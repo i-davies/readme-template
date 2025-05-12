@@ -17,7 +17,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-1A1B1E?style=for-the-badge)](https://www.linkedin.com/in/i-davies)
 [![Email](https://img.shields.io/badge/Email-1A1B1E?style=for-the-badge)](mailto:idavies@outlook.com)
 
-Uma pequena descrição sobre o projeto -  apenas um template inicial de como contruir um README.md simples para qualquer projeto.
+Uma pequena descrição sobre o projeto -  apenas um template inicial de como construir um README.md simples para qualquer projeto.
 
 Por favor visite o [readme-template](https://github.com/i-davies/readme-template) para mais detalhes
 
