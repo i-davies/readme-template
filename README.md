@@ -1,13 +1,13 @@
 # Template inicial de projetos
 
-![github-mark-white](https://github.com/user-attachments/assets/ed8869b7-7884-428d-bfb2-11d3ecdd8800)
-
-
-[Links úteis](.README.md) | [Internos ex English](.README_eg.md) | [Ou Externos](https://github.com/i-davies) 
-
 Uma pequena descrição sobre o projeto -  apenas um template inicial de como contruir um README.md simples para qualquer projeto.
 
 Por favor visite o [readme-template](https://github.com/i-davies/readme-template) para mais detalhes
+
+![github-mark-white](https://github.com/user-attachments/assets/ed8869b7-7884-428d-bfb2-11d3ecdd8800)
+
+
+[Links úteis](.README.md) | [Internos ex English](.README_eg.md) | [Ou Externos](https://github.com/i-davies)
 
 > Uma alternativa também é utilizar as tags do https://shields.io/ ex:
 
