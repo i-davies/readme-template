@@ -1,9 +1,5 @@
 # Template inicial de projetos
 
-Uma pequena descrição sobre o projeto -  apenas um template inicial de como contruir um README.md simples para qualquer projeto.
-
-Por favor visite o [readme-template](https://github.com/i-davies/readme-template) para mais detalhes
-
 ![github-mark-white](https://github.com/user-attachments/assets/ed8869b7-7884-428d-bfb2-11d3ecdd8800)
 
 
@@ -20,6 +16,10 @@ Por favor visite o [readme-template](https://github.com/i-davies/readme-template
 [![Linkedin](https://img.shields.io/badge/Linkedin-1A1B1E?style=for-the-badge)](https://www.linkedin.com/in/i-davies)
 [![Instagram](https://img.shields.io/badge/Instagram-1A1B1E?style=for-the-badge)](https://www.linkedin.com/in/i-davies)
 [![Email](https://img.shields.io/badge/Email-1A1B1E?style=for-the-badge)](mailto:idavies@outlook.com)
+
+Uma pequena descrição sobre o projeto -  apenas um template inicial de como contruir um README.md simples para qualquer projeto.
+
+Por favor visite o [readme-template](https://github.com/i-davies/readme-template) para mais detalhes
 
 
 ![Imagem de exemplo](https://docs.github.com/assets/cb-170327/mw-1440/images/help/repository/profile-with-readme.webp)
